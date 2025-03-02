@@ -15,3 +15,10 @@ There are <strong>two modes</strong> in the app:
 By leveraging React Native for Web, I ensured the app could smoothly adapt to different platforms while maintaining a consistent experience. This cross-platform approach demonstrated how React Native can be used beyond mobile development, making it a powerful tool for building versatile applications.
 
 </p>
+
+
+<img width="345" alt="wps2" src="https://github.com/user-attachments/assets/d48c3f33-b573-4430-ad19-a52f4db96933" />
+<img width="346" alt="wps1" src="https://github.com/user-attachments/assets/ccaf7356-ca6e-4a95-90e1-a94faedd760b" />
+<img width="355" alt="Screenshot 2025-02-07 at 9 15 52 PM" src="https://github.com/user-attachments/assets/6e56d1cb-8d61-4e08-969e-1060e9cbe5f4" />
+
+![icon](https://github.com/user-attachments/assets/cf4cbbf1-9412-4eea-a9dd-dce7fd02f6cb)
